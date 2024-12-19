@@ -40,7 +40,7 @@ This project is the final assignment for the Programmatic Data Wrangling module 
 <!-- Tools Used -->
 ## Tools Used
 
-* **Python**: For exploratory data analysis and modeling.
+* **Python**: For exploratory data analysis and visualisations.
 * **Jupyter Lab**: IDE for the project.
 * **Libraries**:
   * `numpy`
